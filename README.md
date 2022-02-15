@@ -20,3 +20,7 @@ Using
     original assess.php code
 </div>
 ```
+
+## 3. Others
+img name SHA256 hashed [:10]
+assess.php px-5
