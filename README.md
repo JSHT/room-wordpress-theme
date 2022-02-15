@@ -22,5 +22,5 @@ Using
 ```
 
 ## 3. Others
-img name SHA256 hashed [:10]
-assess.php px-5
+- img name SHA256 hashed `[:10]`
+- assess.php px-5
