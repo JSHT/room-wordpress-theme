@@ -14,11 +14,9 @@ Using
 <img src="<?php echo get_template_directory_uri(); ?>/assets/img/..."
 ```
 
-## 2. 在 assess.php 增加 div
+## 2. 在 assess.php .row 添加 m-auto
 ```htmlembedded=
-<div>
-    original assess.php code
-</div>
+<div class="row justify-content-center m-auto">...</div>
 ```
 
 ## 3. Others
