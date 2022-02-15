@@ -23,4 +23,4 @@ Using
 
 ## 3. Others
 - img name SHA256 hashed `[:10]`
-- assess.php px-5
+- about.php add `px-5`
