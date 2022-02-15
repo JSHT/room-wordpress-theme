@@ -22,3 +22,10 @@ Using
 ## 3. Others
 - img name SHA256 hashed `[:10]`
 - about.php add `px-5`
+
+Before
+![](https://i.imgur.com/azf4XnH.png)
+After
+![](https://i.imgur.com/mBCf5h2.png)
+Whole
+![](https://i.imgur.com/7nldOi6.jpg)
